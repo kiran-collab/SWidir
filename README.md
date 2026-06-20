@@ -1,7 +1,7 @@
 # SWidir
 
 This is the official implementation for _SWiDir: Enhancing Smartphone-based Walking Direction Estimation with Passive WiFi Sensing_ accepted at MASS '23.
-[[Paper]](https://drive.google.com/file/d/1uPdt7CdH3Zn_0uXA3-Ol2WQ02ktm_pxr/view?usp=drive_link)
+[[Paper]](https://drive.google.com/file/d/16ZNn-gSWUMIqAmYXkfV5xBZyl5aZAbjD/view?usp=share_link)
 
 Complete codebase for SWidir coming up soon!
 
